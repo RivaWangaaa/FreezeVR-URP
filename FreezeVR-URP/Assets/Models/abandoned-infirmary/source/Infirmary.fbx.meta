@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: c0a30b723f2a791499cb0be17eae32e0
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Material
+    second: {fileID: 2100000, guid: 0900d66f134b61f4786f378e3de741cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_AC_Unit_Material
+    second: {fileID: 2100000, guid: d837fb242ffda084e9ca1b77b62f5f52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_Beams_Material
+    second: {fileID: 2100000, guid: 1d0b04469cf4fa74c806f3dff5d63683, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_BedBlankets_Material
+    second: {fileID: 2100000, guid: 35cf9932b0a06764d92476179a952e9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_BedFrame_Material
+    second: {fileID: 2100000, guid: a1f9deafd708f1e4c9115157c71ba3d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_BedLamp_Material
+    second: {fileID: 2100000, guid: bec99352b7f2f9042a2055ddb08cba8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_BedPan_Material
+    second: {fileID: 2100000, guid: 39db30d52cdb7a94eb2b4e704126e9c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_BedTray_Material
+    second: {fileID: 2100000, guid: 229bc11a892f8ac478a333946cadaf5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_CabinetGlass_Material
+    second: {fileID: 2100000, guid: 6c540454237ed074e8f307093ce876c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_Cabinets_Material
+    second: {fileID: 2100000, guid: d866e76ad9d21874fb1d796ef3c5b7ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_CeilingVents_Material
+    second: {fileID: 2100000, guid: 162e3b1816c702549b96152bc2e9190c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_Ceiling_Material
+    second: {fileID: 2100000, guid: e2f7325941fbc2e4aa4a7b106281cc89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_CotFrame_Material
+    second: {fileID: 2100000, guid: e985e559b98acc44ea5f70b66d7d63f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_Curtains_Material
+    second: {fileID: 2100000, guid: 69df2ab654be72f4da586c12bfa6d6ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_Damaged_Column_Material
+    second: {fileID: 2100000, guid: 979f14b86254e9f45b25ca7df0534f99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_Debris_2_Material
+    second: {fileID: 2100000, guid: 574d53bad3a66bb429663d85842b1350, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_Debris_Material
+    second: {fileID: 2100000, guid: 6983a9e307f62a5429697889b142bdf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_Medical_Light_Material
+    second: {fileID: 2100000, guid: 65e27faff425762439d2c49651344de1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_OperatingRoom_Floor_Material
+    second: {fileID: 2100000, guid: 28163087fab08c349a3718c4be8744b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_OperatingTable_Material
+    second: {fileID: 2100000, guid: a9bc38a70443ae946ac7dc62b992137e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_OperationRoom_Walls_Material
+    second: {fileID: 2100000, guid: 6b861792bb958d9498d0a3cbbc429a6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_Pipes1_Material
+    second: {fileID: 2100000, guid: 9f203825bbf6b2047a23954446ee631a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_RollingCabinet_Material
+    second: {fileID: 2100000, guid: b97d5e506c7a8874fbe2aa4eb1c3b744, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_RoomInset_Material
+    second: {fileID: 2100000, guid: 40ecd1dd38c6a6b4b9b233231a36e1ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_ShatteredGlass_Material
+    second: {fileID: 2100000, guid: 51b0a469174d15340b10cca8412b149c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_SubFloor_Material
+    second: {fileID: 2100000, guid: 57a6d13c796e8cf47b9b9b40cf72f378, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_TrifoldCurtain_Material
+    second: {fileID: 2100000, guid: 501bdb67b980fca4bbc274b5b7a12af7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_WallCabinets_Material
+    second: {fileID: 2100000, guid: 3fff1a1d16ace38429e5753118d53ba6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_Walls_Material
+    second: {fileID: 2100000, guid: 4c9a704b45e07a14197fdf8b60d23a04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_WoodPlanks_Material
+    second: {fileID: 2100000, guid: 5b9dcb613181d2b43943a7fcf5829ed1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infirmary_Wood_Floor_Material
+    second: {fileID: 2100000, guid: 8e6e63d9b2ffdda419a462a144a7110b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medical_LightBulbs_Material
+    second: {fileID: 2100000, guid: 55c0522b6ebff4740be34469a87770ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Tiles_Grout_Material
+    second: {fileID: 2100000, guid: 201ff64c4ab26e24fa8a937f85b7ee15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Tiles_Material
+    second: {fileID: 2100000, guid: 43f48a9b71751fc49aaef450ca6e6632, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_Frame_Material
+    second: {fileID: 2100000, guid: 83f6e799693d6774b86821fec536bd6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_Pane_Material1
+    second: {fileID: 2100000, guid: 0fcfec50f9e7c3f40a5d8c0ef3f7b59a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Windows_Bars_Material
+    second: {fileID: 2100000, guid: 265e7ac3bbe332d4db7138e6ef219320, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 2
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
